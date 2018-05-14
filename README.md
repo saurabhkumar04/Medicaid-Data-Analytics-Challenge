@@ -2,6 +2,10 @@
 
 Dataset: ![link](https://hub.mph.in.gov/dataset?tags=Medicaid&page=1)
 
+Final Visualization: ![link](https://public.tableau.com/profile/jivitesh.poojary1464#!/vizhome/INMedicaidChallenge-MentalHealth/ProjectOverview?publish=yes)
+
+Presentation: ![link](https://prezi.com/view/w8lmPrFwuUAa4oclYSyI/)
+
 Different Tables - Categorized into bins.
 
 ## Emergency Visits 
