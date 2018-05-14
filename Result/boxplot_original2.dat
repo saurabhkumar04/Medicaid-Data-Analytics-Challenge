@@ -1,0 +1,20 @@
+0.787,n=17,weights=uniform,kNN
+0.730,n=17,weights=uniform,kNN
+0.798,n=17,weights=uniform,kNN
+0.708,n=17,weights=uniform,kNN
+0.739,n=17,weights=uniform,kNN
+0.730,kernel=rbf,C=0.125,gamma=0.03125,degree=None,SVM
+0.764,kernel=rbf,C=0.125,gamma=0.03125,degree=None,SVM
+0.775,kernel=rbf,C=0.125,gamma=0.03125,degree=None,SVM
+0.674,kernel=rbf,C=0.125,gamma=0.03125,degree=None,SVM
+0.761,kernel=rbf,C=0.125,gamma=0.03125,degree=None,SVM
+0.944,criterion=gini,n=8,minss=8,RandomForest
+0.809,criterion=gini,n=8,minss=8,RandomForest
+0.888,criterion=gini,n=8,minss=8,RandomForest
+0.854,criterion=gini,n=8,minss=8,RandomForest
+0.909,criterion=gini,n=8,minss=8,RandomForest
+0.730,hls=(16, 16, 16),alpha=0.0625,activation=identity,solver=adam,NeuralNetwork
+0.764,hls=(16, 16, 16),alpha=0.0625,activation=identity,solver=adam,NeuralNetwork
+0.775,hls=(16, 16, 16),alpha=0.0625,activation=identity,solver=adam,NeuralNetwork
+0.674,hls=(16, 16, 16),alpha=0.0625,activation=identity,solver=adam,NeuralNetwork
+0.239,hls=(16, 16, 16),alpha=0.0625,activation=identity,solver=adam,NeuralNetwork
